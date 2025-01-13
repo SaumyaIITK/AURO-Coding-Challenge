@@ -122,8 +122,4 @@ POST /analysescore:
 
 Analyzes the user's code and provides feedback.
 
-This is how the front page looks like
-
-![image](https://github.com/user-attachments/assets/8c6fe46a-df68-4da9-b37e-3b855b0a09eb)
-
 
